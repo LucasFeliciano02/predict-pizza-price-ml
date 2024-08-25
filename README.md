@@ -7,6 +7,9 @@
 
 <hr> -->
 
+<div align="center" id="top">
+  <img alt="Exemplo" title="Exemplo" src="./ml-gif-example.gif"/>
+</h1>
 
   &#xa0;
 
