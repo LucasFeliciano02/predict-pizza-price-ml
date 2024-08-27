@@ -41,7 +41,9 @@
 
 :heavy_check_mark: Lê os dados do arquivo CSV pizzas.csv e os carrega em um DataFrame df;\
 :heavy_check_mark: Treina o modelo com os dados disponíveis como diâmetro e preço;\
-:heavy_check_mark: Usa o modelo treinado para prever o preço da pizza com base no diâmetro inserido pelo usuário.
+:heavy_check_mark: Usa o modelo treinado para prever o preço da pizza com base no diâmetro inserido pelo usuário;\
+:heavy_check_mark: biblioteca streamlit para criar aplicativos web apenas com python.
+
 
 ## :rocket: Tecnologias ##
  
